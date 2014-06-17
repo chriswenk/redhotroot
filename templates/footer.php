@@ -52,4 +52,6 @@
         </div>
     </footer>
 
+        <script src="js/cbpAnimatedHeader.js"></script>
+
     <?php wp_footer(); ?>
